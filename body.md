@@ -136,22 +136,22 @@ Hvor mye _data_ og _historikk_ fungerer det med?
 _MapTime_
 Null Island
 
-![](speilnorgetweet.png) Speilnorge
-
 Inspirerte nordmenn!
 
-![](bilde.jpeg) Norkart Summer of _Code_
+![](Sommerstudentene-2014.jpg) Norkart Summer of _Code_
 
-Leaflet-_LayerConfig_
+[Leaflet-_LayerConfig_](https://github.com/Norkart/Leaflet-LayerConfig/)
 
 ```Javascript
-{
-	layer: "",
-	asd: ""
-}
+	{
+    "center": [63.43048, 10.39508],
+    "zoom": 14, 
+    "layers": [
+        {
 ```
 
-Apache
+Redistribution and use in source and binary forms, with or without
+modification, are _permitted_ provided that the following conditions are met
 
 (_Applaus_)_!_
 
