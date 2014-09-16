@@ -16,9 +16,11 @@ _Nerdefestival_
 Trender
 Teknologi
 
-Javascript, overalt.
+Javascript, overalt. 
 
 Windows er en utrydningstruet art på FOSS4G!
+
+PowerPoint likeså.
 
 _Animasjon_
 _Dynamikk_
@@ -100,20 +102,17 @@ _Vektor-tiles_
 
 Mapbox studio
 
-OL3
-
-Mapbox GL
+OL3 og Mapbox GL
 
 MapCache / GeoServer _støtte snart_
 
-
 _Projeksjoner_
 
-Mer fokus på dette
-
-Nye hipster-problemet
+Mer fokus på dette nye hipster-problemet
 
 WGS84 Life
+
+Du trenger ikke UTM når dataene har 50 meter feilmargin!
 
 Adaptive composite projection = _fremtiden_
 
@@ -123,9 +122,9 @@ _Versjonskontroll_ av geografisk data
 
 GitHub 
 
-geojson-_repo_
-
-geojson-_diff_
+geojson
+-_repo_
+-_diff_
 
 enkel _deling_ av data. 
 
@@ -141,9 +140,7 @@ The project formerly known as GeoGit
 
 GIG Isn't Git
 
-Flere presentasjoner
-
-_modent_ nok? 
+Flere presentasjoner, men _modent_ nok? 
 
 Hvor mye _data_ og _historikk_ fungerer det med?
 
@@ -180,8 +177,8 @@ Inspirerte nordmenn!
 Redistribution and use in source and binary forms, with or without
 modification, are _permitted_ provided that the following conditions are met
 
-(_Applaus_)_!_
+(_Applaus_)
 
 Bruk det!
 
-_takk_!
+![](IMG_7821.jpg)
