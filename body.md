@@ -155,9 +155,13 @@ Eller, hvordan Robert lover ting til amerikanere når man er på et sted med fri
 
 Uformelle meetups med sikte på å lære ikke-geomatikere verdien av kart!
 
-www.maptime.io
+[www.maptime.io](www.maptime.io)
 
 Interessert? Ta kontakt!
+
+Men det var ikke alt! (På langt nær)
+
+Se mer: [http://vimeo.com/foss4g/videos/](http://vimeo.com/foss4g/videos/)
 
 Inspirerte nordmenn!
 
