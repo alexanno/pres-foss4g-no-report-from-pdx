@@ -1,11 +1,12 @@
 Portland (_PDX_)
 
-Bryggerier og tap rooms _overalt_
+Bryggerier og tap rooms _overalt_, vin utenfor
 
 Universitetsby
 
-Kulturell
-_Kunstnerisk_
+Kulturell,
+_Kunstnerisk_,
+**Hipster.**
 
 FOSS4G
 (_PDX_)
@@ -14,6 +15,10 @@ _Nerdefestival_
 
 Trender
 Teknologi
+
+Javascript, overalt.
+
+Windows er en utrydningstruet art på FOSS4G!
 
 _Animasjon_
 _Dynamikk_
@@ -83,11 +88,13 @@ Hard _konkurranse_ mellom de forskjellige "leverandørene"
 
 Tyder på mye utvikling
 
-Mike _Bostock_
+![](IMG_7808.jpg) Mike _Bostock_
 
 _D3_ keynote
 
 gode eksempler er viktig
+
+Projeksjoner betyr noe!
 
 _Vektor-tiles_
 
@@ -99,11 +106,14 @@ Mapbox GL
 
 MapCache / GeoServer _støtte snart_
 
+
 _Projeksjoner_
 
 Mer fokus på dette
 
 Nye hipster-problemet
+
+WGS84 Life
 
 Adaptive composite projection = _fremtiden_
 
@@ -125,7 +135,11 @@ prøver å få _myndigheter_ til å publisere _data_ på _GitHub_.
 
 Bruke repo som et slags _REST_ data _api_
 
-_GeoGIT_
+_GeoGig_
+
+The project formerly known as GeoGit
+
+GIG Isn't Git
 
 Flere presentasjoner
 
@@ -135,6 +149,15 @@ Hvor mye _data_ og _historikk_ fungerer det med?
 
 _MapTime_
 Null Island
+(Party!)
+
+Eller, hvordan Robert lover ting til amerikanere når man er på et sted med fri bar.
+
+Uformelle meetups med sikte på å lære ikke-geomatikere verdien av kart!
+
+www.maptime.io
+
+Interessert? Ta kontakt!
 
 Inspirerte nordmenn!
 
